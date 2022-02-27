@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>It is conceived by the judgement of many that if the courtiers, nobilitie and gentry who are now in rebellion should but be made (as in justice they ought) to pay their just debts, that before this warre, and sithence, in a just way they are ingaged to the citizens and inhabitants in and about this citie, and other places, these ensuing effects would be produced</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87220</idno>
+            <idno type="STC">Wing I1082</idno>
+            <idno type="STC">Thomason E7_5</idno>
+            <idno type="STC">ESTC R18132</idno>
+            <idno type="EEBO-CITATION">99860351</idno>
+            <idno type="PROQUEST">99860351</idno>
+            <idno type="VID">112471</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87220)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112471)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E7[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>It is conceived by the judgement of many that if the courtiers, nobilitie and gentry who are now in rebellion should but be made (as in justice they ought) to pay their just debts, that before this warre, and sithence, in a just way they are ingaged to the citizens and inhabitants in and about this citie, and other places, these ensuing effects would be produced</title>
+                  <author>Blackwell, Jonathan.</author>
+               </titleStmt>
+               <extent>7, p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>21 of August, 1644]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Ionathan Blackwell.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "London 23 Aug: 1644".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Confiscations and contributions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:112471:1" rendition="simple:additions"/>
+            <head>It is conceived by the judgement of many that if the Courtiers, Nobilitie and Gentry who are now in rebellion ſhould but be made (as in Iustice they ought) to pay their just debts, that before this warre, and ſithence, in a juſt way they are ingaged to the Citizens and Inhabitants in and about this Citte, and other places, theſe enſuing effects would be pro<g ref="char:EOLhyphen"/>duced:</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt, The Parliaments Cauſe will be thereby much advanced.</p>
+            <p>Secondly, the contrary Parties much weak<g ref="char:EOLhyphen"/>ned, if not ruined.</p>
+            <p>There are, as it is conceived, 3. things which advance the Parliaments Cauſe, namely, Men, Money, and Execution of Juſtice, which is an Obligation upon mens affections.</p>
+            <p>This way will turne the Malignant round, and ingage, as alſo incourage him to fight for his own proprietie, and ſo cauſe an union both in <hi>London,</hi> and aſſociated Counties, that (if need be) they ſhall riſe all as one man.</p>
+            <p n="2">2. It will advance in probability at leaſt 3. or 4. hundred thouſand pounds ſpeedily.</p>
+            <p n="3">3. It will ſtop the mouthes of the Delinquents, and of their poſteritie; as alſo of the Nations round about, who ſhall adjudge theſe mens perdition to be of themſelves, and render
+<pb n="2" facs="tcp:112471:2"/>the Parliament righteous, becauſe their eſtates are condem<g ref="char:EOLhyphen"/>ned to pay their juſt debts at a full value, which may be a meanes to prevent diſcords and inſurrections, which other<g ref="char:EOLhyphen"/>wiſe might in after ages ariſe.</p>
+            <p n="4">4. It will diminiſh their great meanes and revenues, with which they now wage warre, which in a juſt way will be conferred on the Parliaments friends, and inable them for ever to keep the other under.</p>
+            <p>Whoſoever hath a head, a hand, or a purſe againſt the Parliament, is conceived to be a Delinquent.</p>
+            <p>All thoſe who are with the King are Delinquents under one of theſe notions.</p>
+            <p>If the debts of thoſe men now owing to <hi>London,</hi> and the well-affected, be paid (it is conceived) the Delinquent will be left worth little or nothing; and ſo whatſoever, as aforeſaid, doth inable the Parliaments friends, will diſ-inable the con<g ref="char:EOLhyphen"/>trary Party, his credit and friends loſt beſides; the diviſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns which may ariſe by declaring ſome of them Bankrupts, and others inſolvent or little worth their debt being paid.</p>
+            <p>If this way will not advance moneys enough to doe the worke, there are 3. or 4. more which will thrice as much, in as juſt, honourable, and well-pleaſing a way.</p>
+            <p>
+               <hi>The debts to be ſecured are either ſperate or deſperate.</hi>
+            </p>
+            <p>Of ſperate debts there are two ſorts, ſuch as are owing ei<g ref="char:EOLhyphen"/>ther upon Bill or Bond, for which Intereſt is deſired, and ſo 10. l. in the hundred propounded: Or elſe Booke debts, for which no Intereſt is propounded, and therefore the rate of them is to be conſidered of now.</p>
+            <p>
+               <hi>Deſperate debts are of two ſorts:</hi>
+            </p>
+            <p>Either ſuch as in probability may produce 10. s. in the pound more or leſſe, or ſuch as will produce nothing.</p>
+            <p>For ſuch as will produce in probability 10. s. in the pound more or leſſe, reſpect muſt be had to the Creditors, that they
+<pb n="3" facs="tcp:112471:2"/>bring in a proportion of money anſwerable to the viſible meanes of ſatisfaction.</p>
+            <p>
+               <hi>To deale with a multitude is endleſſe.</hi>
+            </p>
+            <p>It is therefore thought fit that ſome Perſons of truſt and quality may be ſelected to conſider of propoſitions in gene<g ref="char:EOLhyphen"/>rall, and to preſent them to the Citie, to be by them handed to the Parliament for confirmation.</p>
+            <p>
+               <hi>And that Moneyes may be raiſed for the Parliament with more eaſe to the Credit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs</hi>
+            </p>
+            <p>It is thought fit that every man bring in to the Perſons ſo choſen a particular of their ſummes owing by any perſons who are with the King, that ſo Proviſion being made <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or 50000. l. (of which there is preſent neceſſity) the overplus of moneys which in this way may be raiſed be ſo proportioned for time and quantity, as ſhall be deemed anſwerable to the States occaſions, and the Creditors abilities reſpectively.</p>
+            <p>
+               <hi>The Propoſitions under correction and addition may be as followeth.</hi>
+            </p>
+            <p>That an Ordinance of both Houſes be paſſed for the con<g ref="char:EOLhyphen"/>firmation (if it ſhall be ſo thought fit) of whatſoever ſhall be petitioned for in this nature.</p>
+            <p>
+               <hi>Our deſires are as followeth.</hi>
+            </p>
+            <p n="1">1. That a Committee be ſpeedily appointed to examine and try juſt debts upon Oath; which Committee may conſiſt of a certaine number of Lawyers, and others of the Houſe of Commons, with a proportionable number of able Citizens to be joyned with them.</p>
+            <p>And that if any man be found fraudulent to be lyable to ſome corporall puniſhment; beſides the penalty of paying three times the value of the debt ſought for.</p>
+            <p n="2">2. If any man ſhall bring in a greater proportion of money then his debts ſhall be adjudged to be, the Treaſurers to be appointed to receive the moneys may have power upon cer<g ref="char:EOLhyphen"/>tificate
+<pb n="4" facs="tcp:112471:3"/>from the Committee to repay him the overplus.</p>
+            <p n="3">3. If any man bring in a proportion of money for a good debt, which ſhall not prove ſo; he paying as is provided for a deſperate debt, may be repay'd the overplus upon good Certificate to be approved on by the Committee.</p>
+            <p n="4">4. That thoſe who are willing to ſecure their debts, and are not ſufficiently able, reſpect be had to them upon Certifi<g ref="char:EOLhyphen"/>cate in that behalfe to be produced under the Aldermans hand of the Ward where he liveth (in caſe it be in <hi>London</hi>) and the hand of his Deputy and Majority of the Common Councell of the ſame Ward. And in caſe it be in the Countrey then by the Majoritie of the Deputy Lievtenants of the County where he liveth.</p>
+            <p n="5">5. That whoſoever doth not bring in his proportion of money within a certaine time to be limitted (reſpect being had to remote parts) be debarred of this proviſion, and the Creditors bringing in their money to have the benefit of ſuch debts towards their fuller ſatisfaction where the eſtate of the Delinquent Debtour will not fully anſwer his honeſt Ingagements.</p>
+            <p n="6">6. That of the eſtates of Delinquent Debtors, which are now within the Parliaments quarters ſuch a proportion thereof may with as much ſpeed as a Committee for that purpoſe choſen, or to be choſen, can provide and fit the ſame; be made over to ſuch Creditors as ſhall bring in their moneys proportionably to their debts, at <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> yeares purchaſe, reſpect being had to the goodneſſe, Scituation, and ſeverall Tenures thereof.</p>
+            <p n="7">7. That in caſe there be not ſufficient of the Delinquent Debtors eſtate within the Parliaments quarters to pay the Creditors, as aforeſaid; That then accordingly as the Parlia<g ref="char:EOLhyphen"/>ment ſhall enlarge their quarters, addition be made, till full ſatisfaction be given.</p>
+            <pb n="5" facs="tcp:112471:3"/>
+            <p n="8">8. That ſatisfaction be made for ſuch Delinquent Deb<g ref="char:EOLhyphen"/>tors eſtate, either reall or perſonall, as hath been converted to the uſe of the publique, where there is no other viſible meanes left for ſatisfaction of the Creditors ſo bringing in their moneys.</p>
+            <p n="9">9. That there be a certaine time limitted for the with<g ref="char:EOLhyphen"/>drawing ſequeſtrations and giving poſſeſſion as aforeſaid (in caſe no accommodation happen in the <hi>Interim.</hi>)</p>
+            <p n="10">10. That if Accommodation happen, proviſion be made for the repayment of the Moneys to be brought in for ſecu<g ref="char:EOLhyphen"/>ring of debts, with the Charges thereof.</p>
+            <p n="11">11. That thoſe who are not able to ſecure their debts, as others be, doe bring it in, according as they ſhall be able.</p>
+            <p n="12">12. That every Creditor bringing in his money, may have the publique faith for it, with intereſt to be allowed and made good out of the Overplus of his Delinquent Debtors eſtate (in caſe any be) if not, then out of ſome others.</p>
+            <p n="13">13. That every man proportionably as he is reimburſed his principall with Intereſt and Charges of ſecuring, doe lend the like proportion as formerly which is conceived to be but reaſonable, the better to enable the Parliament to recover and ſecure the other C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>editors debts, whoſe Delinquent Debtors eſtates are not as yet within their Quarters.</p>
+            <div type="part">
+               <head>Quaeres.</head>
+               <p n="1">1. Who ſhall pay the charge of the Committees and o<g ref="char:EOLhyphen"/>thers to be employed in the buſineſſe?</p>
+               <p n="2">2. In caſe there be two or more bound in a Bond or Ob<g ref="char:EOLhyphen"/>ligation, and one or more of them is reſident within the Parliaments quarters, whether hee or they that are reſident ſhall not pay the charge of ſecuring the debt (if able) and if not, whether the Creditors ſhall not be aſſiſtant?</p>
+               <pb n="6" facs="tcp:112471:4"/>
+               <p n="3">3. Whether ſuch debts as are owing upon Statutes, Iudge<g ref="char:EOLhyphen"/>ments, Recognizances or Mortgages ſhall not be brought in, in reſpect they ſhall have their Lands and eſtates preſerved and aſſigned them by power of Parliament, in manner as aboveſaid: And what reſpect ſhall be had to the payment of the Bonds &amp;c. before Bills and booke debts &amp;c.</p>
+               <p n="4">4. Whether ſuch as have poſſeſſion of delinquents eſtates by Mortgages or otherwiſe ſhall not reſtore the overplus, and be aſſigned and confirmed by power of Parliament, in his juſt value and proportion, and whether any thing or what ſhall<g ref="char:EOLhyphen"/>be brought in by the Creditor in the hundred for ſuch aſſu<g ref="char:EOLhyphen"/>rance?</p>
+            </div>
+            <div type="part">
+               <head>The Names of ſuch perſons who are willing to ſpend their time and indeavours, to conſider of this buſi<g ref="char:EOLhyphen"/>neſſe, and thereupon to contrive Propoſitions to the <hi>Parliament</hi> for advance of Monies, in reference to the late Order of the Honourable Houſe of Commons upon the City Petition for proviſion of juſt debts; And for that purpoſe have appointed to meet at Dra<g ref="char:EOLhyphen"/>pers Hall every Saturday, between 8. and 9. in the morning, and every Tueſday and Thurſday betweene 2. and 3. in the afternoone, are as followeth.</head>
+               <list>
+                  <item>Sir <hi>Iohn Cordell.</hi>
+                  </item>
+                  <item>Sir <hi>Iohn Gayer.</hi>
+                  </item>
+                  <item>Sir <hi>Iacob Garret.</hi>
+                  </item>
+                  <item>Sir <hi>George Garrett.</hi>
+                  </item>
+                  <item>Alderman <hi>Atkins.</hi>
+                  </item>
+                  <item>Alderman <hi>Addams.</hi>
+                  </item>
+                  <item>Sir <hi>George Cl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rke.</hi>
+                  </item>
+                  <item>Alderman <hi>Langham.</hi>
+                  </item>
+                  <item>Alderman <hi>Kendrick.</hi>
+                  </item>
+                  <item>Alderman <hi>Cullum.</hi>
+                  </item>
+                  <item>Sir <hi>Iohn Nulls.</hi>
+                  </item>
+                  <item>Deputy <hi>Methold.</hi>
+                  </item>
+                  <item>Deputy <hi>Avery.</hi>
+                  </item>
+                  <item>Deputy <hi>Moſſe.</hi>
+                  </item>
+                  <item>M. <hi>Edward Cropley.</hi>
+                  </item>
+                  <item>M. <hi>Tho. Smith.</hi>
+                  </item>
+                  <item>M. <hi>Peter Bultell.</hi>
+                  </item>
+                  <pb n="7" facs="tcp:112471:4"/>
+                  <item>M. <hi>Adam Lawrence.</hi>
+                  </item>
+                  <item>M. <hi>Richard Bateman.</hi>
+                  </item>
+                  <item>M. <hi>Gilbert Moorewood.</hi>
+                  </item>
+                  <item>M. <hi>Churchman.</hi>
+                  </item>
+                  <item>M. <hi>Tho. Hodges.</hi>
+                  </item>
+                  <item>M. <hi>William Christmas.</hi>
+                  </item>
+                  <item>M. <hi>Nathan Wright.</hi>
+                  </item>
+                  <item>M. <hi>Charles Snelling.</hi>
+                  </item>
+                  <item>M. <hi>Iaques Oyles.</hi>
+                  </item>
+                  <item>M. <hi>Peter Iones.</hi>
+                  </item>
+                  <item>M. <hi>Shallcroſſe,</hi> Scriveners.</item>
+                  <item>M. <hi>Smither,</hi> Scriveners.</item>
+                  <item>M. <hi>Holeman,</hi> Scriveners.</item>
+                  <item>M. <hi>Colburne,</hi> Scriveners.</item>
+                  <item>M. <hi>Abraham Chamberlaine.</hi>
+                  </item>
+                  <item>M. <hi>Tho. Hutchins.</hi>
+                  </item>
+                  <item>M. <hi>Tho. Andrewe.</hi>
+                  </item>
+                  <item>Capt. <hi>Iohn Brett.</hi>
+                  </item>
+                  <item>Capt. <hi>Richard Venners.</hi>
+                  </item>
+                  <item>M. <hi>William Toombes.</hi>
+                  </item>
+                  <item>M. <hi>Iohn Hatt.</hi>
+                  </item>
+                  <item>M. <hi>Iohn Roberts.</hi>
+                  </item>
+                  <item>M. <hi>Ieffery Howland.</hi>
+                  </item>
+                  <item>M. <hi>Francis Lenthall.</hi>
+                  </item>
+                  <item>M. <hi>Oliver Clobery.</hi>
+                  </item>
+                  <item>M. <hi>William Perkins.</hi>
+                  </item>
+                  <item>M. <hi>Bracy.</hi>
+                  </item>
+                  <item>Aſſiſtants.</item>
+                  <item>M. Serjeant <hi>Feaſant.</hi>
+                  </item>
+                  <item>M. Serjeant <hi>Greene.</hi>
+                  </item>
+                  <item>M. <hi>William Steele.</hi>
+                  </item>
+                  <item>M. <hi>Iohn Bradſhawe.</hi>
+                  </item>
+               </list>
+               <p>Whereof any ſeven with an Aſſiſtant to be a complete number.</p>
+               <p>Agreed upon as aboveſaid, at a generall meeting about this buſineſſe, at <hi>Marchant-Tailers Hall</hi> on Wedneſday laſt being the 21. of <hi>August,</hi> 1644.</p>
+               <closer>
+                  <signed>Attendant.<hi>Ionathan Blackwell.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <head>Obſervable.</head>
+               <p>THe unhappy diviſion of <hi>London,</hi> is conceived to be a great meanes of dividing the Kingdome, a reuniting thereof, which is ſo much deſired and principally aimed at, may be (by the bleſſing of God) as great a meanes to draw home his Majeſty and thoſe honeſt Gentle<g ref="char:EOLhyphen"/>men (if any be) that are about him, and that no more true loyall and Proteſtant blood be ſpilt, through the cunning, Jeſuiticall, diabolicall inſinuations of thoſe <hi>blood-thirſty Jeſuits and Papiſts,</hi> working up<g ref="char:EOLhyphen"/>on the weake judgements of many well minded men towards GOD, their KING, PARLIAMENT and Countrey.</p>
+               <trailer>Glory be to GOD.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
